@@ -48,7 +48,14 @@ I am always happy to connect with you, here's how you can get in touch with me:
 
 If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![guliwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhubaiali&show_icons=true)
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhubaiali&theme=react" /> </div>
 
 Thank you for visiting my personal page, looking forward to connecting with you!
+
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhubaiali" /> </div>
+
+
+
 
