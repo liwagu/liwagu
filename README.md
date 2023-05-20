@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Guliwa
+# Liwa
 
-Hello, I'm Guliwa. Welcome to my personal page!
+Hello, I'm Liwa. Welcome to my personal page!
 
 ## About Me
 
