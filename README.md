@@ -53,13 +53,6 @@ I also share some articles on my blog, feel free to check them out:
 - [Redis - 大厂程序员是怎么用的](https://juejin.cn/post/7200376545243807802)
 - [ClickHouse - 你没有见过的列存储](https://juejin.cn/post/7200689071260680249)
 
-## Contact Me 📫
-
-I am always happy to connect with you, here's how you can get in touch with me:
-
-- Email: torricelli@126.com
-- LinkedIn: [linkedin.com/in/liwa-gu](https://www.linkedin.com/in/liwa-gu-57604523a/)
-- WeChat: N3TMUVASW3Dtz8BuPztW
 
 ## My Stats 📈
 
