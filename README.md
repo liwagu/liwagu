@@ -21,7 +21,13 @@ Hello, I'm Liwa. Welcome to my personal page!
 
 ## About Me
 
-I am a passionate individual who enjoys challenging myself and constantly learning and growing. My current skill set includes JavaSE, SpringMVC, Redis, Golang, gin, gorm, Hertz, Kitex, Dubbo, Nacos...
+As an individual backend developer, I bring a wealth of experience and a diverse skill set to the table. My proficiency in Java and Golang, coupled with my hands-on experience in relational databases like MySQL and NoSQL technologies such as Redis, has equipped me with a comprehensive understanding of backend development.
+
+I have a deep understanding of microservices architecture, with practical knowledge of SpringCloud, its core components, and other RPC frameworks like Dubbo. I have honed my skills in backend development middleware, mastering the use of message queues, cache, and search engines.
+
+With two enriching backend internships under my belt, I have a proven track record of tackling complex technical challenges. My ability to swiftly identify and resolve issues, coupled with my knack for developing high-performance applications, sets me apart in the field of backend development.
+
+Whether working in a team or as an individual contributor, I thrive in all environments, bringing a blend of technical expertise, problem-solving skills, and a passion for backend development.
 
 ## My Projects
 
