@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 🙋‍♂️
+## About Me 🙋‍♀️
 
 - **Proficient in Java and Golang**: I bring a wealth of experience in backend development, with a strong focus on Java and Golang. 🚀
 
