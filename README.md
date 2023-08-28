@@ -18,23 +18,35 @@ Here are some ideas to get you started:
 
 ## About Me 🙋‍♀️
 
-- **Proficient in Java and Golang**: I bring a wealth of experience in backend development, with a strong focus on Java and Golang. 🚀
+- **Absolute Feminist**
+  
+- **Proficient in Java and Golang**: Excel in backend development with a focus on Java and Golang. 🚀
 
-- **Experience with Databases**: I have hands-on experience with relational databases like MySQL and NoSQL technologies such as Redis. 🏗️
+- **Database Expertise**: Master relational databases like MySQL and NoSQL technologies such as Redis. 🏗️
 
-- **Microservices Architecture**: I have a deep understanding of microservices architecture, with practical knowledge of SpringCloud, its core components, and other RPC frameworks like Dubbo and gRPC. 💡
+- **Microservices Architecture with Resilience Patterns**: Understand microservices architecture deeply, including resilience patterns like rate limiting, fallbacks, and circuit breaking. Utilize SpringCloud, its core components, and other RPC frameworks like Dubbo and gRPC. 💡
 
-- **Cloud-Native Technologies**: I am well-versed in cloud-native technologies and middleware, including Kubernetes, Docker, Istio, Prometheus, Envoy, Helm, OpenTracing, Fluentd, gRPC, Jaeger, and Linkerd. ☁️
+- **Cloud-Native Technologies**: Navigate through cloud-native technologies and middleware like Kubernetes, Docker, Istio, Prometheus, Envoy, Helm, OpenTracing, Fluentd, Jaeger, and Linkerd with ease. ☁️
 
-- **Serverless and DDD**: I have experience with Serverless architecture and Domain-Driven Design (DDD), which allows me to design and implement scalable and maintainable software solutions. 🌐
+- **Serverless and DDD**: Implement scalable and maintainable software solutions using Serverless architecture and Domain-Driven Design (DDD). 🌐
 
-- **Backend Development Middleware**: I've mastered the use of backend development middleware, including message queues, cache, and search engines. 🎯
+- **Backend Development Middleware**: Master the use of backend development middleware, including message queues, cache, and search engines. 🎯
 
-- **Problem-Solving Skills**: With two enriching backend internships under my belt, I've proven my ability to tackle complex technical challenges and swiftly identify and resolve issues. 🧠
+- **Problem-Solving Skills**: Tackle complex technical challenges and swiftly identify and resolve issues, backed by enriching backend internships. 🧠
 
-- **High-Performance Applications**: I have a knack for developing high-performance applications, setting me apart in the field of backend development. 🌟
+- **High-Performance Applications**: Develop high-performance applications that set you apart in the field of backend development. 🌟
 
-- **Team Player and Individual Contributor**: Whether working in a team or as an individual contributor, I thrive in all environments. I bring a blend of technical expertise, problem-solving skills, and a passion for backend development. 🎉
+- **Team Player and Individual Contributor**: Thrive in both team and individual environments, bringing a blend of technical expertise, problem-solving skills, and a passion for backend development. 🎉
+
+
+
+
+
+
+
+
+
+
 
 ## My Projects 📚
 
