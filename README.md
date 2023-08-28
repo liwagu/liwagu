@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - **Experience with Databases**: I have hands-on experience with relational databases like MySQL and NoSQL technologies such as Redis. 🏗️
 
-- **Microservices Architecture**: I have a deep understanding of microservices architecture, with practical knowledge of SpringCloud, its core components, and other RPC frameworks like Dubbo. 💡
+- **Microservices Architecture**: I have a deep understanding of microservices architecture, with practical knowledge of SpringCloud, its core components, and other RPC frameworks like Dubbo and gRPC. 💡
 
 - **Cloud-Native Technologies**: I am well-versed in cloud-native technologies and middleware, including Kubernetes, Docker, Istio, Prometheus, Envoy, Helm, OpenTracing, Fluentd, gRPC, Jaeger, and Linkerd. ☁️
 
