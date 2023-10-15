@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 
 In my GitHub, you can find my latest projects, including:
 
-- **[Learn Thrift](https://github.com/Zhubaiali/learn-thrift)**: A project dedicated to learning and implementing Thrift.
+- **[Learn Thrift](https://github.com/liwagu/learn-thrift)**: A project dedicated to learning and implementing Thrift.
 
-- **[Liwa SO](https://github.com/Zhubaiali/liwa-so)**: A project showcasing my backend development skills.
+- **[Liwa SO](https://github.com/liwagu/liwa-so)**: A project showcasing my backend development skills.
 
-- **[Shopping Cart](https://github.com/Zhubaiali/ShoppingCart)**: A simple shopping cart implementation.
+- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: A simple shopping cart implementation.
 
-- **[Redis Go](https://github.com/Zhubaiali/redis-go)**: A project where I explore the functionalities of Redis with Golang
+- **[Redis Go](https://github.com/liwagu/redis-go)**: A project where I explore the functionalities of Redis with Golang
 
 I also share some articles on my blog, feel free to check them out:
 
@@ -70,14 +70,14 @@ I also share some articles on my blog, feel free to check them out:
 
 If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
-![Liwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhubaiali&show_icons=true&theme=radical)
+![Liwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=liwagu&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhubaiali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhubaiali&repo=learn-thrift)](https://github.com/Zhubaiali/learn-thrift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhubaiali&repo=liwa-so)](https://github.com/Zhubaiali/liwa-so)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhubaiali&repo=ShoppingCart)](https://github.com/Zhubaiali/ShoppingCart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhubaiali&repo=redis-go)](https://github.com/Zhubaiali/redis-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=learn-thrift)](https://github.com/Zhubaiali/learn-thrift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=liwa-so)](https://github.com/Zhubaiali/liwa-so)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=ShoppingCart)](https://github.com/Zhubaiali/ShoppingCart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=redis-go)](https://github.com/Zhubaiali/redis-go)
 
 Thank you for visiting my personal page, looking forward to connecting with you!
 
