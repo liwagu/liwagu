@@ -56,7 +56,7 @@ In my GitHub, you can find my latest projects, including:
 
 - **[Liwa SO](https://github.com/liwagu/liwa-so)**: A project showcasing my backend development skills.
 
-- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: A simple shopping cart implementation.
+- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: Shopping Cart Mall System, a Java and Vue Practice
 
 - **[Redis Go](https://github.com/liwagu/redis-go)**: A project where I explore the functionalities of Redis with Golang
 
@@ -74,10 +74,10 @@ If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=learn-thrift)](https://github.com/Zhubaiali/learn-thrift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=liwa-so)](https://github.com/Zhubaiali/liwa-so)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=ShoppingCart)](https://github.com/Zhubaiali/ShoppingCart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=redis-go)](https://github.com/Zhubaiali/redis-go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=learn-thrift)](https://github.com/liwagu/learn-thrift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=liwa-so)](https://github.com/liwagu/liwa-so)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=ShoppingCart)](https://github.com/liwagu/ShoppingCart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=redis-go)](https://github.com/liwagui/redis-go)
 
 Thank you for visiting my personal page, looking forward to connecting with you!
 
