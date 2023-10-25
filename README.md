@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋, I'm Liwa
 
 <div>
@@ -81,3 +82,5 @@ If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
 Thank you for visiting my personal page, looking forward to connecting with you! my wechat: guliwa3306
 
+
+</div>
