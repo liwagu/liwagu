@@ -1,6 +1,6 @@
 
   
-### Hi 👋, I'm Liwa
+## Hello, I'm Liwa
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
