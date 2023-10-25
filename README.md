@@ -44,10 +44,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
 ## My Projects 📚
 
 In my GitHub, you can find my latest projects, including:
@@ -72,7 +68,7 @@ If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
 ![Liwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=liwagu&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/liwagu/github-readme-stats)
 
 
 Thank you for visiting my personal page, looking forward to connecting with you! my wechat: guliwa3306
