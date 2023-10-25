@@ -74,10 +74,6 @@ If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=learn-thrift)](https://github.com/liwagu/learn-thrift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=liwa-so)](https://github.com/liwagu/liwa-so)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=ShoppingCart)](https://github.com/liwagu/ShoppingCart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liwagu&repo=redis-go)](https://github.com/liwagui/redis-go)
 
-Thank you for visiting my personal page, looking forward to connecting with you!
+Thank you for visiting my personal page, looking forward to connecting with you! my wechat: guliwa3306
 
