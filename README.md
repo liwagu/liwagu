@@ -1,6 +1,6 @@
 
   
-# Hi 👋, I'm Liwa
+### Hi 👋, I'm Liwa
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
@@ -9,24 +9,7 @@
 </h1>
 
 
-
-
-<!--
-**Zhubaiali/Zhubaiali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About Me 🙋‍♀️
+### About Me 🙋‍♀️
 
 - **Absolute Feminist**
   
@@ -54,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-## My Projects 📚
+### My Projects 📚
 
 In my GitHub, you can find my latest projects, including:
 
@@ -72,7 +55,7 @@ I also share some articles on my blog, feel free to check them out:
 - [ClickHouse - 你没有见过的列存储](https://juejin.cn/post/7200689071260680249)
 
 
-## My Stats 📈
+### My Stats 📈
 
 If you're interested in my GitHub stats, here's a summary of my GitHub activity:
 
