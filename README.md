@@ -7,10 +7,6 @@
 </h1>
 
 
-### About Me 👻
-
-- **Absolute Feminist**
-
 ### My Projects 📚
 
 In my GitHub, you can find my latest projects, including:
