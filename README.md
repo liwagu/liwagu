@@ -3,37 +3,13 @@
 ## Hello 🙋‍♀️, I'm Liwa
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您美团发发发&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);这是为什么呢？&center=true&size=27">
 </h1>
 
 
 ### About Me 👻
 
 - **Absolute Feminist**
-  
-- **Proficient in Java and Golang**: Excel in backend development with a focus on Java and Golang. 🚀
-
-- **Database Expertise**: Master relational databases like MySQL and NoSQL technologies such as Redis. 🏗️
-
-- **Microservices Architecture with Resilience Patterns**: Understand microservices architecture deeply, including resilience patterns like rate limiting, fallbacks, and circuit breaking. Utilize SpringCloud, its core components, and other RPC frameworks like Dubbo and gRPC. 💡
-
-- **Cloud-Native Technologies**: Navigate through cloud-native technologies and middleware like Kubernetes, Docker, Istio, Prometheus, Envoy, Helm, OpenTracing, Fluentd, Jaeger, and Linkerd with ease. ☁️
-
-- **Serverless and DDD**: Implement scalable and maintainable software solutions using Serverless architecture and Domain-Driven Design (DDD). 🌐
-
-- **Backend Development Middleware**: Master the use of backend development middleware, including message queues, cache, and search engines. 🎯
-
-- **Problem-Solving Skills**: Tackle complex technical challenges and swiftly identify and resolve issues, backed by enriching backend internships. 🧠
-
-- **High-Performance Applications**: Develop high-performance applications that set you apart in the field of backend development. 🌟
-
-- **Team Player and Individual Contributor**: Thrive in both team and individual environments, bringing a blend of technical expertise, problem-solving skills, and a passion for backend development. 🎉
-
-
-
-
-
-
 
 ### My Projects 📚
 
