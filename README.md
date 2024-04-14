@@ -1,4 +1,4 @@
-## Welcome! I'm Liwa
+## Welcome! I'm Liwa 💕🐽🦜
 
 I am deeply interested in networking and infrastructure. My focus areas include:
 - **Software-Defined Networking (SDN)**: Leveraging software-based control to direct network traffic and manage infrastructure efficiently, employing APIs for network communication and configuration.
