@@ -1,6 +1,10 @@
+## Welcome! I'm Liwa
 
-  
-## Hello 🙋‍♀️, I'm Liwa
+I am deeply interested in networking and infrastructure. My focus areas include:
+- **Software-Defined Networking (SDN)**: Leveraging software-based control to direct network traffic and manage infrastructure efficiently, employing APIs for network communication and configuration.
+- **Firewalls, Load Balancing, and Quality of Service (QoS)**: Ensuring network security, efficient traffic distribution, and prioritization of network services.
+- **TCP/IP and Linux Network Configuration**: Proficiency in internet protocols and configuring networking on Linux systems.
+- **Clos Network, VXLAN, BGP, EVPNs**: Knowledge of advanced network topology, overlay networks, and routing protocols.
 
 ## Skills
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=60 /></a>
@@ -30,10 +34,7 @@ I also share some articles on my blog, feel free to check them out:
 - [ClickHouse - 你没有见过的列存储](https://juejin.cn/post/7200689071260680249)
 
 
-### My Stats 📈
-
+## My Stats 📈
 
 ![Liwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=liwagu&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liwagu&layout=compact)](https://github.com/liwagu/github-readme-stats)
 
