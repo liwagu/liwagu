@@ -2,12 +2,17 @@
   
 ## Hello 🙋‍♀️, I'm Liwa
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);&center=true&size=27">
-</h1>
+## Skills
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=60 /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=60/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=60/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width=60/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width=60></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=60></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=60></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=60></a>
 
-
-### My Projects 📚
+## My Projects 📚
 
 In my GitHub, you can find my latest projects, including:
 
@@ -15,9 +20,9 @@ In my GitHub, you can find my latest projects, including:
 
 - **[Liwa SO](https://github.com/liwagu/liwa-so)**: A project showcasing my backend development skills.
 
-- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: Shopping Cart Mall System, a Java and Vue Practice
+- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: Shopping Cart Mall System, a Java and Vue Practice.
 
-- **[Redis Go](https://github.com/liwagu/redis-go)**: A project where I explore the functionalities of Redis with Golang
+- **[WanGress](https://github.com/liwagu/wangress)**: Cloud Native gateway based on Envoy.
 
 I also share some articles on my blog, feel free to check them out:
 
