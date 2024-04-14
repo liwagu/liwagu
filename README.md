@@ -1,11 +1,9 @@
-## Welcome! I'm Liwa 💕🐽🦜
+## Welcome! I'm Liwa🦜
 
 I am deeply interested in networking and infrastructure. My focus areas include:
-- **Software-Defined Networking (SDN)**: Leveraging software-based control to direct network traffic and manage infrastructure efficiently, employing APIs for network communication and configuration.
 - **Firewalls, Load Balancing, and Quality of Service (QoS)**: Ensuring network security, efficient traffic distribution, and prioritization of network services.
-- **TCP/IP and Linux Network Configuration**: Proficiency in internet protocols and configuring networking on Linux systems.
 - **Clos Network, VXLAN, BGP, EVPNs**: Knowledge of advanced network topology, overlay networks, and routing protocols.
-
+- Transformer, [Weaviate](https://github.com/weaviate/weaviate) vector database ...
 ## Skills
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=60 /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=60/></a>
