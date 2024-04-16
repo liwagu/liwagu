@@ -1,6 +1,6 @@
 ## Welcome! I'm Liwa🦜
 
-I am deeply interested in networking and infrastructure. My focus areas include:
+I am deeply interested in networking and infrastructure now (05/2024) . My focus areas include:
 - **Firewalls, Load Balancing, and Quality of Service (QoS)**: Ensuring network security, efficient traffic distribution, and prioritization of network services.
 - **Clos Network, VXLAN, BGP, EVPNs**: Knowledge of advanced network topology, overlay networks, and routing protocols.
 - Transformer, [Weaviate](https://github.com/weaviate/weaviate) vector database ...
