@@ -18,9 +18,9 @@ I am deeply interested in networking and infrastructure now (05/2024) . My focus
 
 In my GitHub, you can find my latest projects, including:
 
-- **[Learn Thrift](https://github.com/liwagu/learn-thrift)**: A project dedicated to learning and implementing Thrift.
+- **[shoprpc](https://github.com/liwagu/shoprpc)**: Shop System using Kitex RPC.
 
-- **[Liwa SO](https://github.com/liwagu/liwa-so)**: A project showcasing my backend development skills.
+- **[Liwa SO](https://github.com/liwagu/liwa-so)**: ElasticSearch practice.
 
 - **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: Shopping Cart Mall System, a Java and Vue Practice.
 
