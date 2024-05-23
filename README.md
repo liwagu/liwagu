@@ -1,4 +1,4 @@
-## Welcome! I'm Liwa🦜
+## Hello! I'm Liwa🦜
 
 I am deeply interested in networking and infrastructure now (05/2024) . My focus areas include:
 - **Firewalls, Load Balancing, and Quality of Service (QoS)**: Ensuring network security, efficient traffic distribution, and prioritization of network services.
