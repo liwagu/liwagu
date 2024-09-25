@@ -11,7 +11,6 @@ I am deeply interested in networking and infrastructure now (08/2024) . My focus
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width=60></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=60></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=60></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=60></a>
 
 ## My Projects 📚
 
