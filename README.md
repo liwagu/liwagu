@@ -6,7 +6,6 @@ I am deeply interested in networking and infrastructure now (08/2024) . My focus
 - Transformer, [Weaviate](https://github.com/weaviate/weaviate) vector database ...
 ## Skills
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=60 /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=60/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=60/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width=60/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width=60></a>
