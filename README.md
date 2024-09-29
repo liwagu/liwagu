@@ -12,17 +12,7 @@ I am deeply interested in networking and infrastructure now (08/2024) . My focus
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=60></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=60></a>
 
-## My Projects 📚
-
-In my GitHub, you can find my latest projects, including:
-
-- **[shoprpc](https://github.com/liwagu/shoprpc)**: Shop System using Kitex RPC.
-
-- **[Liwa SO](https://github.com/liwagu/liwa-so)**: ElasticSearch practice.
-
-- **[Shopping Cart](https://github.com/liwagu/ShoppingCart)**: Shopping Cart Mall System, a Java and Vue Practice.
-
-- **[WanGress](https://github.com/liwagu/wangress)**: Cloud Native gateway based on Envoy.
+## Doc 📚
 
 I also share some articles on my blog, feel free to check them out:
 
